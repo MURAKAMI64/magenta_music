@@ -15,4 +15,4 @@ pip install -r requirements.txt
 python create_emotion_vectors.py
 ```
 
-自分のPCで実行すると"The TensorFlow library was compiled to use AVX instructions, but these aren't available on your machine."という表示が出てしまいます。
+自分のPCで実行するとmagentaライブラリをインポートする時に"The TensorFlow library was compiled to use AVX instructions, but these aren't available on your machine."という表示が出てしまい、それ以降のコードが実行されません。
