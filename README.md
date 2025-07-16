@@ -8,7 +8,7 @@ conda activate magenta
 ```
 
 ```bash
-pip install -qU magenta pyfluidsynth pretty_midi
+pip install magenta pyfluidsynth pretty_midi
 ```
 
 ```bash
